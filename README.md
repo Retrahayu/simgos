@@ -7,5 +7,6 @@ Files of interest:
 - files/PLAN.md — Specification-driven development plan synchronized with official SIMGOS sources
 - docs/INSTALL.md — Quickstart installation summary (from official docs)
 - docs/BACKUP-RESTORE.md — Backup & restore practical guide
+- docs/SWOT.md — Verified comprehensive SWOT analysis for SIMGOS v2
 
 For development tasks, see files/PLAN.md and create feature branches for implementation.
